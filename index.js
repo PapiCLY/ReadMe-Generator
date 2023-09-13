@@ -53,7 +53,7 @@ function init() {
   // Prompt the user with questions and generate the README
   inquirer.prompt(questions)
     .then(answers => {
-      const markdown = generateMarkdown(answers); // Assuming generateMarkdown is a function to create Markdown content
+      const markdown = generateMarkdown(answers);
       writeToFile('README.md', markdown);
     })
     .catch(error => console.error(error));
