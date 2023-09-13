@@ -17,7 +17,7 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   ## Deployed Application URL
-  ${data.link}
+  ${data.license}
   ## Screenshot
   ![alt-text](${data.screenshot})
   ## Table of Contents
@@ -28,11 +28,11 @@ function generateMarkdown(data) {
   * [Testing](#testing)
   * [Questions](#questions)
   ## Features
-  ${data.features}
+  ${data.github}
   ## Languages & Dependencies
-  ${data.require}
+  ${data.email}
   ## How to Use This Application:
-  ${data.usage}
+  ${data.screenshot}
   ## Contributors
   ${data.contributors}
   ## Testing

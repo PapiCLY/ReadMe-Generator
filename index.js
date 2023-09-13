@@ -7,32 +7,32 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
 const questions = [
       {
         type: 'input',
-        name: 'Title',
+        name: 'title',
         message: 'What is your Readme title?',
       },
       {
         type: 'input',
-        name: 'Decription',
+        name: 'description',
         message: 'Enter your Readme description',
       },
       {
         type: 'input',
-        name: 'License',
+        name: 'license',
         message: 'What license would you like to use?',
       },
       {
         type: 'input',
-        name: 'Github',
+        name: 'github',
         message: 'Please enter your Github username',
       },
       {
         type: 'input',
-        name: 'Screenshot',
+        name: 'screenshot',
         message: 'Please include a screen shot of your application',
       },   
       {
         type: 'input',
-        name: 'Email',
+        name: 'email',
         message: 'Please enter your email address',
       }   
     ];
