@@ -19,6 +19,7 @@ const questions = [
         type: 'input',
         name: 'license',
         message: 'What license would you like to use?',
+        choice: ['MIT', 'Apache', 'GPL', 'None'],
       },
       {
         type: 'input',
@@ -27,8 +28,24 @@ const questions = [
       },
       {
         type: 'input',
+        name: 'languages',
+        message: 'Please state any language or technologies used in your application',
+    },
+      {
+        type: 'input',
+        name: 'requirements',
+        message: 'Please include any dependencies or requirements for your application',
+      },
+      {
+        type: 'input',
+        name: 'contributors',
+        message: 'List any contributors (Use GitHub usernames): ',
+        default: ''
+    },
+      {
+        type: 'input',
         name: 'screenshot',
-        message: 'Please include a screen shot of your application',
+        message: 'Will you include a screenshot of your application?',
       },   
       {
         type: 'input',
