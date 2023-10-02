@@ -20,7 +20,7 @@
   ## Screenshot
   ![alt-text](yes)
 
-  https://drive.google.com/file/d/1Jr19YJSwc-MrW7aUx2gdotmk5eOu8lCU/viewLinks
+  https://drive.google.com/file/d/1Jr19YJSwc-MrW7aUx2gdotmk5eOu8lCU/view
 
   ## Contributors
   FriendDev
