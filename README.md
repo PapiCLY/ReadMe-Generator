@@ -19,7 +19,8 @@
 
   ## Screenshot
   ![alt-text](yes)
-  https://drive.google.com/file/d/1Jr19YJSwc-MrW7aUx2gdotmk5eOu8lCU/viewLinks to an external site.
+
+  https://drive.google.com/file/d/1Jr19YJSwc-MrW7aUx2gdotmk5eOu8lCU/viewLinks
 
   ## Contributors
   FriendDev
