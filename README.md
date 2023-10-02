@@ -1,4 +1,4 @@
-# Cool title
+# New application
 
   ## Table of Contents
   * [Description](#description)
@@ -9,30 +9,31 @@
   * [Questions](#questions)
   
   ## Description
-  Cool application
+  New application with upgraded features
 
   ## License Used
   MIT
 
   ## Languages & Dependencies
-  express, node, js
+  none
 
   ## Screenshot
   ![alt-text](yes)
+  https://drive.google.com/file/d/1Jr19YJSwc-MrW7aUx2gdotmk5eOu8lCU/viewLinks to an external site.
 
   ## Contributors
-  none
+  FriendDev
 
   ## Features
-  Developer
+  Developer2003
 
 
   ## How to Use This Application:
   yes
 
   ## Contributors
-  none
+  FriendDev
 
   ## Questions
-  Please send your questions [here](mailto:dev@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/undefined](https://github.com/undefined).
+  Please send your questions [here](mailto:dev2023@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/undefined](https://github.com/undefined).
   
